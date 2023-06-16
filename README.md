@@ -1,6 +1,4 @@
 # MyGitRepo
-test for git repo
-this is new commit test  
-this is second change
-this is 06151110 change for fork
-직접푸시해보자
+erased all text
+rewriting it
+test0616
